@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Hi hunman! 
+
+
+Your emperor is coming!
+
